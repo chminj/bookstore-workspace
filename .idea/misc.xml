@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/branches" />
+                  <option value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/branches" />
+                  <option value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://bfad-210-183-163-229.ngrok-free.app/svn/team2/bookstore/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
